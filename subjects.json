@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Mathematics",
+    "pdf": "/pdfs/math.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Physics",
+    "pdf": "/pdfs/physics.pdf"
+  }
+]
